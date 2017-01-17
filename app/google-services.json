@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "100538152225",
+    "firebase_url": "https://chattester-94642.firebaseio.com",
+    "project_id": "chattester-94642",
+    "storage_bucket": "chattester-94642.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100538152225:android:882c2e47bfdbb7e8",
+        "android_client_info": {
+          "package_name": "com.example.devc2.chattester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100538152225-n0qqr5qr62pn12tohaisjn3m1efv6qkp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.devc2.chattester",
+            "certificate_hash": "CDEBF67F98BFDA1817221C3E18C1951FC065FB74"
+          }
+        },
+        {
+          "client_id": "100538152225-ffr8rtf0ve938b1i51lsncj5ldjd4o78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpbbVPRFN-yCTAQuNrZmW90aGx9FK3zBc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100538152225-ffr8rtf0ve938b1i51lsncj5ldjd4o78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
